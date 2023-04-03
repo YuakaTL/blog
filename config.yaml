@@ -51,7 +51,7 @@ params:
 
     sidebar:
         emoji: 🚥
-        subtitle: Attitude determines Altitude.
+        subtitle: Hi :D
         avatar:
             enabled: true
             local: true
