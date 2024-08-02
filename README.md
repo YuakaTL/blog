@@ -1,1 +1,1 @@
-https://blog.yuakatl.com
+https://blog.morrison.tw
